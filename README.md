@@ -1,6 +1,6 @@
 Log emails
 =============
-Developer plugin for Elgg that display emails in PHP log, instead of send them
+Developer plugin for Elgg that displays emails in PHP log, instead of send them
 
 Features
 -----------
